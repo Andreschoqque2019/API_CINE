@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+*.user
+
+# Contexto interno de trabajo, no va al repo
+CONTEXTO-AGENTE.md
