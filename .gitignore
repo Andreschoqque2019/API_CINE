@@ -3,3 +3,7 @@ obj/
 .vs/
 *.user
 
+# Herramientas locales de desarrollo, no van al repo
+# (contienen rutas absolutas del entorno y son caches autogenerados)
+.atl/
+CONTEXTO-AGENTE.md
