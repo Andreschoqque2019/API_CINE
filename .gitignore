@@ -4,6 +4,5 @@ obj/
 *.user
 
 # Herramientas locales de desarrollo, no van al repo
-# (contienen rutas absolutas del entorno y son caches autogenerados)
+# (contiene rutas absolutas del entorno y es un cache autogenerado)
 .atl/
-CONTEXTO-AGENTE.md
